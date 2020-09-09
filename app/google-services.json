@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "52739708488",
+    "firebase_url": "https://resonant-time-288606.firebaseio.com",
+    "project_id": "resonant-time-288606",
+    "storage_bucket": "resonant-time-288606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52739708488:android:f511758a6ed54cd0e6aa7d",
+        "android_client_info": {
+          "package_name": "com.example.firebasesocialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52739708488-ggeplepfe6tr2fajtq60m7dv6ridiprb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh0tAGjY3Wpab9sadWRSUDCdKjNVe58MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52739708488-ggeplepfe6tr2fajtq60m7dv6ridiprb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
